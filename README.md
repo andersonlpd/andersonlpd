@@ -31,7 +31,7 @@ Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin
 🔨 I'm looking forward to learn about automation tools as Ansible, Jenkins, Chef and Puppet.<br>
 🌩️ Cloud is another concept that I've been doing very well in the last months (Azure, AWS and mainly Openstack).<br>
 💼 In the next year, I plan to start my MBA course, focusing on Cloud Architecture.<br>
-⚡ Quote: A dream does not become reality through magic; it takes sweat, determination, and hard work. (Thomas Jefferson).<br>
+⚡ Quote: A dream does not become reality through magic; it takes sweat, determination, and hard work. (Colin Powell).<br>
 😆 Fun Joke: What do you call 8 hobbits? A hobbyte.<br>
 
 <br>
