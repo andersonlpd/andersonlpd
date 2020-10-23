@@ -40,8 +40,6 @@ Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin
 
 ### Techologies
 
-<br>
-
 **Operating Systems**
 
 [<img align="left" alt="Linux" width="30" height="30" src="https://icongr.am/simple/linux.svg?colored=true" />][linux]
