@@ -4,7 +4,7 @@
 
 ### Who am I
 
-Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin since 2014. I've made contact with a lot of technologies troughout the years, including Linux 😍, Oracle, Openstack, Cassandra, Azure and a lot more. Right now I'm changing my focus to the DevOps area, so I've been learning a lot about development and Cloud as well. So I'll keep posting my projects here 😄. Besides bein a Tech Guy, in my free-time, I'm a gamer 🎮, a guitarrist 🎸, a reader 📖 and a Geek 🤓.
+Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin since 2014 and currently working as a System Reliability Engineer. I've made contact with a lot of technologies troughout the years, including Linux 😍, Oracle, Openstack, Cassandra, Azure, Openshift, Java and a lot more. Right now my focus is on doing a deep dive on Cloud Architecture, Observability and new Languages. I am trying to be more active here on GitHub, so I think you guys are going to see me more aroung here 😄. Besides being a Tech Guy, in my free-time, I'm a gamer 🎮, a guitarrist 🎸, a reader 📖 and a Geek 🤓.
 
 <br> 
 
@@ -27,9 +27,8 @@ Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin
 **Current Status**
 
 ⚙️ I'm currently working in improving my Development skills.<br>
-🌱 My focus is in learning Python and JavaScript.<br>
-🔨 I'm looking forward to learn about automation tools as Ansible, Jenkins, Chef and Puppet.<br>
-🌩️ Cloud is another concept that I've been doing very well in the last months (Azure, AWS and mainly Openstack).<br>
+🌱 My focus is in learning Java and DotNet.<br>
+🔨 I'm looking forward to learn about Cloud Architecture and Observability.<br>
 💼 In the next year, I plan to start my MBA course, focusing on Cloud Architecture.<br>
 ⚡ Quote: A dream does not become reality through magic; it takes sweat, determination, and hard work. (Colin Powell).<br>
 😆 Fun Joke: What do you call 8 hobbits? A hobbyte.<br>
@@ -38,7 +37,7 @@ Hi, I'm Anderson! I am a Computer Networks Techonologist, who've been a SysAdmin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### Techologies
+### Tech Stack
 
 **Operating Systems**
 
